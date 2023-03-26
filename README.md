@@ -1,6 +1,5 @@
 # Assign_mail
 <!DOCTYPE html>
-<html>
   <head>
     <title>Login/Logout Example</title>
   </head>
